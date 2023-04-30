@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scaler version="2.5.0">
+  <ScalerState>
+    <InfoState versionNumber="2.5.0"/>
+    <DisplayState bassNotation="1" selectedScale="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"/>
+    <AnalyserState/>
+    <AudioState/>
+    <TriggerState/>
+    <MappingState/>
+    <ArpState/>
+    <StrumState/>
+    <ExpressionState/>
+    <LegatoState/>
+    <VoicingState lowestNote="54" highestNote="66"/>
+    <HumanizeState/>
+    <SuggestionState/>
+    <ChordViewerState/>
+    <BrowserState selectedBrowserTab="scales"/>
+    <FilterState/>
+    <ScaleExplorerState diatonicShapes="0-0-0-0-0-0-0" isOpen="1"/>
+    <ProgressionState/>
+    <ModulationState/>
+    <PlaybackState tempo="128.0"/>
+    <FretboardState/>
+    <ReverbState isOn="1"/>
+    <FlutterState/>
+    <AnalyseContent/>
+    <ProgressionContent selectedTabNum="0" isEditingIndex="-1" isEditingTabNum="-1" isLooping="0">
+      <ProgressionPattern tabIdx="0" tabName="Pattern 1">
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,92345c1c9f7049c7b65fbd1f80e30451"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="0" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="50" velocity="89"/>
+            <MidiNote number="53" velocity="89"/>
+            <MidiNote number="57" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,92345c1c9f7049c7b65fbd1f80e30451"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="1" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="58" velocity="89"/>
+            <MidiNote number="62" velocity="89"/>
+            <MidiNote number="65" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+            <MidiNote number="52" velocity="89"/>
+            <MidiNote number="55" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="50" velocity="89"/>
+            <MidiNote number="53" velocity="89"/>
+            <MidiNote number="57" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,8cb35132182f4ce493924a17efb99801"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="2" tabIdx="0">
+          <PlayableItem>
+            <MidiNote number="48" velocity="89"/>
+          </PlayableItem>
+        </ProgressionSlot>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,92345c1c9f7049c7b65fbd1f80e30451"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="3" tabIdx="0"/>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,92345c1c9f7049c7b65fbd1f80e30451"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="4" tabIdx="0"/>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,92345c1c9f7049c7b65fbd1f80e30451"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="5" tabIdx="0"/>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,92345c1c9f7049c7b65fbd1f80e30451"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="6" tabIdx="0"/>
+        <ProgressionSlot octave="3" inversion="0" semitoneDelta="0" durationCoefficient="1.0"
+                         repeat="1" expressionSetUuid="ac3b36e617884f14b6238f50be88ad09"
+                         expressionResolutionId="100" expressionPhrasePlayStyle="2" expressionPhrasePlayMode="1"
+                         expressionStrummedSequencesDirection="1" expressionStrummedSequencesProfile="1"
+                         expressionStrummedSequencesFill="1" expressionStrummedSequencesAlternative="1"
+                         expressionScaleId="ad72b5cb571e401ba882a686c8bdaec6,92345c1c9f7049c7b65fbd1f80e30451"
+                         arpTiming="10" arpPatternId="1" arpNoteLength="100" arpOctaveRange="1"
+                         strummingProfileId="1" strummingDirectionId="1" voiceGroupingProfileId="99"
+                         playbackPerformanceMode="4" groupId="1" groupPlaybackBehaviour="3"
+                         idx="7" tabIdx="0"/>
+      </ProgressionPattern>
+    </ProgressionContent>
+    <CommandManager>
+      <CommandMapping>
+        <Key type="1" keyPress="shift + A"/>
+        <Command id="8"/>
+      </CommandMapping>
+      <CommandMapping>
+        <Key type="1" keyPress="shift + B"/>
+        <Command id="9"/>
+      </CommandMapping>
+      <CommandMapping>
+        <Key type="1" keyPress="shift + C"/>
+        <Command id="10"/>
+      </CommandMapping>
+      <CommandMapping>
+        <Key type="1" keyPress="alt + S"/>
+        <Command id="27"/>
+      </CommandMapping>
+      <CommandMapping>
+        <Key type="1" keyPress="alt + O"/>
+        <Command id="28"/>
+      </CommandMapping>
+    </CommandManager>
+  </ScalerState>
+</Scaler>
